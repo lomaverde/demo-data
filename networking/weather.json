@@ -1,0 +1,11 @@
+{
+  "data": {
+    "current_condition": [
+      {
+        "cloudcover": "16",
+        "humidity": "59",
+        "observation_time": "09:09 PM"
+      }
+    ]
+  }
+}
